@@ -1,0 +1,28 @@
+[debug] [2022-04-17T15:29:53.554Z] ----------------------------------------------------------------------
+[debug] [2022-04-17T15:29:53.555Z] Command:       /usr/local/bin/node /usr/local/bin/firebase login --no-localhost
+[debug] [2022-04-17T15:29:53.556Z] CLI Version:   10.6.0
+[debug] [2022-04-17T15:29:53.556Z] Platform:      darwin
+[debug] [2022-04-17T15:29:53.556Z] Node Version:  v14.17.0
+[debug] [2022-04-17T15:29:53.557Z] Time:          Sun Apr 17 2022 20:59:53 GMT+0530 (India Standard Time)
+[debug] [2022-04-17T15:29:53.557Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[debug] [2022-04-17T15:29:55.992Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2022-04-17T15:29:55.992Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"1830a890-36ab-4f33-a15a-f310790c25ec"}
+[debug] [2022-04-17T15:29:56.621Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2022-04-17T15:29:56.622Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"0z72rN-9AJO5q5B1TWOBnmw6EdzT0ApHGrC6B8ml8dI"}
+[info] 
+[info] To sign in to the Firebase CLI:
+[info] 
+[info] 1. Take note of your session ID:
+[info] 
+[info]    1830A
+[info] 
+[info] 2. Visit the URL below on any device and follow the instructions to get your code:
+[info] 
+[info]    https://auth.firebase.tools/login?code_challenge=QLqiNyNYF7u_m5D9er7A35kWEKqRS7cd6mXaEapCzyc&session=1830a890-36ab-4f33-a15a-f310790c25ec&attest=0z72rN-9AJO5q5B1TWOBnmw6EdzT0ApHGrC6B8ml8dI
+[info] 
+[info] 3. Paste or enter the authorization code below once you have it:
+[info] 
